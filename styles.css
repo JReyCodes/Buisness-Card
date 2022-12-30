@@ -51,9 +51,9 @@ h4 {
 
 .twitter {
     height: 35px;
-    position: absolute;
-    top: 180px;
-    left: 410px;
+    position: relative;
+    bottom: 75px;
+    left: 105px;
 }
 
 h5 {
